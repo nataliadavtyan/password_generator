@@ -47,6 +47,11 @@ button {
     border: none;
     border-radius: 6px;
     margin-bottom: 35px;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.98);
 }
 
 .password-container {
