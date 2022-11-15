@@ -9,7 +9,7 @@ const sliderEl = document.getElementById("slider-el")
 
 sliderValue.textContent = sliderEl.value
 
-// to make the number change when you dran the slider
+// to make the number change when you drag the slider
 sliderEl.oninput = function() {
   sliderValue.innerHTML = this.value;
 }
