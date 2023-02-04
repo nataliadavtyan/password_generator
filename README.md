@@ -16,14 +16,14 @@ The project is built using:
 * CSS
 * JavaScript
 
-## Sources
-Password generator is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
-
 ## Project status
 The project is complete.
 
-## To do
+## Room for improvement
 * Add an option to copy password to clipboard on click
+
+## Acknowledgements
+Password generator is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
