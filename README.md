@@ -1,13 +1,29 @@
-# co5394d23ab6b6359e8c05b8e
+# Password generator
 
-## About Scrimba
+Password generator creates two random passwords.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
+Users set the desired length of the password and then click the button that creates two random passwords using uppercase and lowercase letters, numbers and special characters.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Demo
+![The demonstration](./password-generator.gif)
 
-Happy Coding!
+Test it on Netlify: https://prismatic-baklava-a0a68c.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Sources
+Password generator is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+
+## Project status
+The project is complete.
+
+## To do
+* Add an option to copy password to clipboard on click
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
