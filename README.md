@@ -8,7 +8,7 @@ Users set the desired length of the password and then click the button that crea
 ## Demo
 ![The demonstration](./password-generator.gif)
 
-Test it on Netlify: https://prismatic-baklava-a0a68c.netlify.app/
+Test it on Netlify: https://password-generator-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
